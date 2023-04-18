@@ -15,7 +15,8 @@ System Requirements
 
 Python 3.x
 OpenCV
-Flask
+NumPy
+dLib
 MySQL
 
 ## Testing and Deployment
