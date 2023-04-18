@@ -1,6 +1,6 @@
-#Cloud-Based Attendance System Using Face Recognition
+Cloud-Based Attendance System Using Face Recognition
 
-#Description
+Description
 
 This is a cloud-based attendance system using face recognition technology built with Python. It is designed to automate the attendance process and enhance security by using facial recognition technology to verify the identity of students or employees.
 
