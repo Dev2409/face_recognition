@@ -1,10 +1,10 @@
-Cloud-Based Attendance System Using Face Recognition
+# Cloud-Based Attendance System Using Face Recognition
 
-Description
+## Description
 
 This is a cloud-based attendance system using face recognition technology built with Python. It is designed to automate the attendance process and enhance security by using facial recognition technology to verify the identity of students or employees.
 
-Features
+## Features
 
 User registration
 Face detection and recognition
@@ -18,7 +18,7 @@ OpenCV
 Flask
 MySQL
 
-#Testing and Deployment
+## Testing and Deployment
 
 Unit testing, integration testing, system testing, acceptance testing, and performance testing should be conducted to ensure proper functionality, compatibility, and performance of the system.
 The right cloud service provider should be chosen and necessary infrastructure like virtual machines and databases should be configured and set up.
