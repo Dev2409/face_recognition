@@ -31,6 +31,6 @@ Contributing
 
 Contributions are welcome. Please read the CONTRIBUTING.md file for more information.
 
-License
+## License
 
 This project is licensed under the MIT License.
